@@ -1,3 +1,3 @@
 Hello, Welcome to Valaxy Technologies !!
 
-Deployment is going to happen through ansible
+Deployment is going to happen.
